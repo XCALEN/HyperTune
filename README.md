@@ -1,4 +1,4 @@
-[![PyPI Status]](https://pypi.org/project/hypertune-param/)
+[PyPi](https://pypi.org/project/hypertune-param/)
 
 # Hypertune
 
