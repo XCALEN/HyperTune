@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="hypertune", 
-    version="0.1.0",  
+    name="hypertune-param", 
+    version="0.1.1",  
     author="Arcoson",  
     author_email="hylendust@gmail.com",  
     description="A custom library for hyperparameter optimization using Grid Search, Random Search, and Bayesian Optimization.", 
