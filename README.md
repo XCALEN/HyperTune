@@ -2,11 +2,11 @@
 
 # Hypertune
 
-Hypertune is a Python library designed to simplify hyperparameter optimization for machine learning models. It supports different search strategies, including Grid Search, Random Search, and Bayesian Optimization, to find the best hyperparameters for your model and improve its performance.
+Hypertune is a Python library that simplifies hyperparameter optimization for machine learning models. It supports different search strategies, including Grid Search, Random Search, and Bayesian Optimization, to find the best hyperparameters for your model and improve its performance.
 
-Features
+## Types of Searches
 
-- **Grid Search**: Exhaustively searches through a manually specified grid of hyperparameters.
+- **Grid Search**: Searches through a manually specified grid of hyperparameters.
 - **Random Search**: Randomly samples hyperparameter combinations to find optimal settings.
 - **Bayesian Optimization**: Uses probabilistic models to predict the best hyperparameters and minimize the number of trials needed.
 
@@ -15,7 +15,7 @@ Features
 You can install **Hypertune** using `pip` from PyPI:
 
 ```bash
-pip install hypertune
+pip install hypertune-param
 ```
 
 ## Usage
