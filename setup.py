@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="hypertune-param", 
     version="0.1.1",  
-    author="Arcoson",  
+    author="XCALEN",  
     author_email="hylendust@gmail.com",  
     description="A custom library for hyperparameter optimization using Grid Search, Random Search, and Bayesian Optimization.", 
     long_description=open('README.md').read(), 
